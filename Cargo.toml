@@ -1,11 +1,8 @@
 [package]
-name = "lfr_core"
-version = "0.5.9"
+name = "LFR-Core"
+version = "0.6.5"
 edition = "2021"
+authors = ["Артем Кухта"]
 
 [dependencies]
-windows-sys = { version = "0.52", features = [
-    "Win32_UI_WindowsAndMessaging",
-    "Win32_Foundation",
-    "Win32_Graphics_Gdi"
-] }
+windows-sys = { version = "0.48", features = ["Win32_UI_WindowsAndMessaging"] }
