@@ -1,0 +1,47 @@
+Project LFR System Requirements:
+
+1. Windows XP: 512MB RAM minimum, 1GB recommended (SHC_core package required).
+
+2. Windows Vista / 7: 1GB RAM minimum for Vista, 2GB for Windows 7.
+
+3. Windows 8 / 8.1: 2GB RAM minimum. Transparency patches might be needed.
+
+4. Windows 10 / 11 (Home, Pro, Enterprise): 4GB RAM minimum. OS can take up to 25% of resources for Bloatware.
+
+Optimization: It is highly recommended to remove Cortana, telemetry, and third-party "optimizers" (IObit, Alcohol 120%) for stable performance.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Системні вимоги Project LFR:
+
+1. Windows XP: Мінімум 512 МБ RAM, рекомендується 1 ГБ для стабільної роботи Aero (потрібен пакет SHC_core).
+
+2. Windows Vista / 7: Мінімум 1 ГБ RAM для Vista, 2 ГБ для Windows 7.
+
+3. Windows 8 / 8.1: Мінімум 2 ГБ RAM. Можуть знадобитися патчі для прозорості.
+
+4. Windows 10 / 11 (Home, Pro, Enterprise): Мінімум 4 ГБ RAM. Система може забирати до 25% ресурсів під Bloatware.
+
+Оптимізація: Наполегливо рекомендується видалити Кортану, телеметрію та сторонні "оптимізатори" (IObit, Alcohol 120%) для стабільної роботи інтерфейсу.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Wymagania systemowe Project LFR:
+
+1. Windows XP: Minimum 512MB RAM, zalecane 1GB (wymagany pakiet SHC_core).
+
+2. Windows Vista / 7: Minimum 1GB RAM dla Vista, 2GB dla Windows 7.
+
+3. Windows 8 / 8.1: Minimum 2GB RAM. Mogą być wymagane patche na przezroczystość.
+
+4. Windows 10 / 11 (Home, Pro, Enterprise): Minimum 4GB RAM. System może zajmować do 25% zasobów na Bloatware.
+
+Optymalizacja: Zdecydowanie zaleca się usunięcie Cortany, telemetrii i zewnętrznych "optymalizatorów" (IObit, Alcohol 120%) dla stabilnego działania Aero.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Systemanforderungen für Project LFR:
+
+1. Windows XP: Mindestens 512MB RAM, 1GB empfohlen (SHC_core Paket erforderlich).
+
+2. Windows Vista / 7: Mindestens 1GB RAM für Vista, 2GB für Windows 7.
+
+3. Windows 8 / 8.1: Mindestens 2GB RAM. Transparenz-Patches können erforderlich sein.
+
+4. Windows 10 / 11 (Home, Pro, Enterprise): Mindestens 4GB RAM. Das System kann bis zu 25% der Ressourcen für Bloatware beanspruchen.
+
+Optimierung: Es wird dringend empfohlen, Cortana, Telemetrie und externe "Optimierer" (IObit, Alcohol 120%) zu entfernen, um eine stabile Aero-Leistung zu gewährleisten.
